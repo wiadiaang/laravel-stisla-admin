@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # laravel-stisla-admin
-=======
+
 ## Getting Strated
 
 ### Installation
@@ -8,7 +8,7 @@
 Clone the repository
 
 ~~~
-https://github.com/syahdham/stisla-laravel-base.git
+git@github.com:wiadiaang/laravel-stisla-admin.git
 ~~~
 or
 ~~~
@@ -67,4 +67,4 @@ Stisla Template : https://getstisla.com/
 
 
 
->>>>>>> master
+
